@@ -1,16 +1,12 @@
-## Hi there 👋
+### hei im geode ‼️
 
-<!--
-**GeodeArc/GeodeArc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👍 worlds worst "developer"
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💫 about me:
+- zero marketable skills
+- full slack off developer
+- knows C, C++, Rust (as in i have heard of them before, dont ask me to use them)
+- really funny (no)
+- doesn't know markdown, made this with chatgpt
+- arch user btw (i break my system every week)
+- how do i exit vim please help
