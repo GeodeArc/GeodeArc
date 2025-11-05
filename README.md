@@ -6,19 +6,21 @@
 
 🐧 big penguin os enjoyer
 
+✨️ check out socials and more @ [gdrc.me](https://gdrc.me)
+
 #
 
-💫 about me:
+**about me:**
 - zero marketable skills
 - full slack off developer
 - knows C, C++, Rust (as in i have heard of them before, dont ask me to use them)
 - (barely) knows how to write in bash
-- doesn't know markdown, made this with chatgpt (fr fr)
+- doesn't know markdown, made this with chatgpt (fr ong)
 - arch user btw (i break my system every week)
 - how do i exit vim please help
 
 #
 
-wth is this
+(not) **impressive stats:**
 
 ![GeodeArc's Stats](https://github-readme-stats.vercel.app/api?username=GeodeArc&theme=dracula&show_icons=true&hide_border=false&count_private=true)
