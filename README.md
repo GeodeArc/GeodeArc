@@ -6,7 +6,7 @@
 
 🐧 big penguin os enjoyer
 
-✨️ check out socials and more @ [gdrc.me](https://gdrc.me)
+✨️ check out socials and more @ [geodearc.com](https://geodearc.com)
 
 #
 
